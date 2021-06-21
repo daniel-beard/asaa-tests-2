@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6T8835Q6XM.com.dbeard.Sample",
+        "paths": [
+          "/blue",
+          "/red"
+        ]
+      }
+      ]
+  }
+}
